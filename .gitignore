@@ -9,6 +9,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
+modelos/*
 wandb/
 develop-eggs/
 dist/
@@ -48,6 +49,7 @@ nosetests.xml
 coverage.xml
 *.cover
 *.csv
+*.pkl
 *.pt
 *.parquet
 *.html
