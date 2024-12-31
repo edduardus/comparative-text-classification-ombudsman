@@ -1,0 +1,10 @@
+jupyterlab
+pandas==2.2.3
+scikit-learn==1.5.2
+transformers==4.46.1
+torch==2.5.1
+accelerate>=0.26.0
+peft==0.13.2
+datasets==3.1.0
+evaluate==0.4.3
+wandb
